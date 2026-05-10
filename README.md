@@ -19,6 +19,9 @@ It detects whether a person is wearing a mask using a webcam and a trained deep 
 - Webcam-based detection
 - Deep learning model training
 
+## Dataset
+Dataset sourced from Kaggle for educational and portfolio purposes.
+
 ## Files
 - detect_mask.py → Runs real-time detection
 - train_mask_detector.py → Trains the model
